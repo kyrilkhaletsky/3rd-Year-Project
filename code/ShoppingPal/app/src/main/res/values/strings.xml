@@ -1,0 +1,674 @@
+<resources>
+    <string name="app_name">ShoppingPal</string>
+
+    <string-array name="restrictions">
+        <item>Please Select</item>
+        <item>Wheat</item>
+        <item>Crustaceans</item>
+        <item>Eggs</item>
+        <item>Fish</item>
+        <item>Peanuts</item>
+        <item>Soya</item>
+        <item>Milk</item>
+        <item>Celery</item>
+        <item>Mustard</item>
+        <item>Sesame</item>
+        <item>Lupin</item>
+        <item>Nuts</item>
+        <item>Sulphites</item>
+        <item>Molluscs</item>
+        <item>WADA Banned Substances</item>
+    </string-array>
+
+    <string-array name="Wheat">
+        <item>wheat</item>
+        <item>durum wheat</item>
+        <item>semolina</item>
+        <item>spelt</item>
+        <item>kamut</item>
+        <item>eincorn</item>
+        <item>faro</item>
+        <item>barley</item>
+        <item>rye</item>
+        <item>oat</item>
+        <item>malt</item>
+    </string-array>
+
+    <string-array name="Crustaceans">
+        <item>amphipod</item>
+        <item>barnacle</item>
+        <item>crab</item>
+        <item>crabs</item>
+        <item>hermit crab</item>
+        <item>crayfish</item>
+        <item>isopod</item>
+        <item>lobster</item>
+        <item>mantis shrimp</item>
+        <item>mussel shrimp</item>
+        <item>mussels</item>
+        <item>mussel</item>
+        <item>mysids</item>
+        <item>sea spider</item>
+        <item>mysid</item>
+        <item>shrimp</item>
+        <item>prawn</item>
+        <item>shrimps</item>
+        <item>prawns</item>
+    </string-array>
+
+    <string-array name="Eggs">
+        <item>albumin</item>
+        <item>apovitellin</item>
+        <item>cholesterol free egg substitute</item>
+        <item>dried egg</item>
+        <item>egg</item>
+        <item>egg white</item>
+        <item>egg whites</item>
+        <item>egg yolk</item>
+        <item>egg yolks</item>
+        <item>egg wash</item>
+        <item>eggnog</item>
+        <item>globulin</item>
+        <item>livetin</item>
+        <item>lysozyme</item>
+        <item>mayonnaise</item>
+        <item>meringue</item>
+        <item>meringue powder</item>
+        <item>ovalbumin</item>
+        <item>ovoglobulin</item>
+        <item>ovomucin</item>
+        <item>ovomucoid</item>
+        <item>ovotransferrin</item>
+        <item>ovovitelia</item>
+        <item>ovovitellin</item>
+        <item>powdered egg</item>
+        <item>powdered eggs</item>
+        <item>silici albuminate</item>
+        <item>simplesse</item>
+        <item>surimi</item>
+        <item>trailblazer</item>
+        <item>vitellin</item>
+        <item>whole egg</item>
+        <item>whole eggs</item>
+    </string-array>
+
+    <string-array name="Fish">
+        <item>anchovies</item>
+        <item>bass</item>
+        <item>catfish</item>
+        <item>cod</item>
+        <item>flounder</item>
+        <item>grouper</item>
+        <item>haddock</item>
+        <item>hake</item>
+        <item>halibut</item>
+        <item>herring</item>
+        <item>mahi mahi</item>
+        <item>perch</item>
+        <item>pike</item>
+        <item>pollock</item>
+        <item>salmon</item>
+        <item>scrod</item>
+        <item>swordfish</item>
+        <item>sole</item>
+        <item>snapper</item>
+        <item>tilapia</item>
+        <item>trout</item>
+        <item>tuna</item>
+    </string-array>
+
+    <string-array name="Peanuts">
+        <item>peanut</item>
+        <item>peanuts</item>
+        <item>ground nuts</item>
+        <item>beer nuts</item>
+        <item>monkey nuts</item>
+        <item>nut meat</item>
+        <item>arachis oil</item>
+        <item>kernels</item>
+        <item>peanut protein</item>
+        <item>arachic oil</item>
+        <item>arachis</item>
+        <item>arachis hypogaea</item>
+        <item>artificial nuts</item>
+        <item>beer nuts</item>
+        <item>boiled peanuts</item>
+        <item>cold pressed</item>
+        <item>peanut oil</item>
+        <item>crushed nuts</item>
+        <item>crushed peanuts</item>
+        <item>earth nuts</item>
+        <item>goober peas</item>
+        <item>ground nuts</item>
+        <item>ground peanuts</item>
+        <item>hydrolyzed peanut protein</item>
+        <item>mandelonas</item>
+        <item>mixed nuts</item>
+        <item>nut pieces</item>
+        <item>nutmeat</item>
+        <item>peanut butter</item>
+        <item>peanut butter chips</item>
+        <item>peanut butter morsels</item>
+        <item>peanut flour</item>
+        <item>peanut paste</item>
+        <item>peanut sauce</item>
+        <item>peanut syrup</item>
+        <item>virginia peanuts</item>
+    </string-array>
+
+    <string-array name="Soya">
+        <item>soya</item>
+        <item>soy flour</item>
+        <item>soya milk</item>
+        <item>soya nuts</item>
+        <item>bean curd</item>
+        <item>edamame</item>
+        <item>soybeans in pods</item>
+        <item>hydrolyzed soy protein</item>
+        <item>kinnoko flour</item>
+        <item>kyodofu</item>
+        <item>freeze dried tofu</item>
+        <item>miso</item>
+        <item>natto</item>
+        <item>okara</item>
+        <item>soy pulp</item>
+        <item>shoyu sauce</item>
+        <item>soy albumin</item>
+        <item>soy concentrate</item>
+        <item>soy fiber</item>
+        <item>soy formula</item>
+        <item>soy grits</item>
+        <item>soy milk</item>
+        <item>soy miso</item>
+        <item>soy nuts</item>
+        <item>soy nut butter</item>
+        <item>soy protein</item>
+        <item>soy protein concentrate</item>
+        <item>soy protein isolate</item>
+        <item>soy sauce</item>
+        <item>soy sprouts</item>
+        <item>soya</item>
+        <item>soya flour</item>
+        <item>soybeans</item>
+        <item>soybean granules</item>
+        <item>soybean curd</item>
+        <item>soybean flour</item>
+        <item>soy lecithin</item>
+        <item>soybean paste</item>
+        <item>supro</item>
+        <item>tamari</item>
+        <item>tempeh</item>
+        <item>teriyaki sauce</item>
+        <item>textured soy flour</item>
+        <item>tsf</item>
+        <item>textured soy protein</item>
+        <item>tsp</item>
+        <item>textured vegetable protein</item>
+        <item>tvp</item>
+        <item>tofu</item>
+        <item>yakidofu</item>
+        <item>yuba</item>
+        <item>bean curd</item>
+        <item>soy oil</item>
+        <item>soybean</item>
+        <item>textured vegetable protein</item>
+        <item>edemame</item>
+        <item>vegetable starch</item>
+        <item>vegetable gum</item>
+        
+    </string-array>
+
+    <string-array name="Milk">
+        <item>milk</item>
+        <item>acidophilus milk</item>
+        <item>buttermilk</item>
+        <item>buttermilk blend</item>
+        <item>lactose</item>
+        <item>lactic acid</item>
+        <item>buttermilk solids</item>
+        <item>cultured milk</item>
+        <item>condensed milk</item>
+        <item>dried milk</item>
+        <item>dry milk solids</item>
+        <item>dms</item>
+        <item>evaporated milk</item>
+        <item>fat‐free milk</item>
+        <item>fully cream milk powder</item>
+        <item>goat’s milk</item>
+        <item>lactose free milk</item>
+        <item>low fat milk</item>
+        <item>malted milk</item>
+        <item>milk derivative</item>
+        <item>milk powder</item>
+        <item>milk protein</item>
+        <item>milk solids</item>
+        <item>milk solid pastes</item>
+        <item>nonfat dry milk</item>
+        <item>nonfat milk</item>
+        <item>nonfat milk solids</item>
+        <item>pasteurised milk</item>
+        <item>powdered milk</item>
+        <item>sheep’s milk</item>
+        <item>skim milk</item>
+        <item>skim milk powder</item>
+        <item>sour milk</item>
+        <item>sour milk solids</item>
+        <item>sweet cream buttermilk powder</item>
+        <item>sweetened condensed milk</item>
+        <item>sweetened condensed skim milk</item>
+        <item>whole milk</item>
+        <item>1% milk</item>
+        <item>2% milk</item>
+        <item>butter — artificial butter</item>
+        <item>butter</item>
+        <item>artificial butter</item>
+        <item>artificial butter flavour</item>
+        <item>butter</item>
+        <item>butter extract</item>
+        <item>butter fat</item>
+        <item>butter flavoured oil</item>
+        <item>butter solids</item>
+        <item>dairy butter</item>
+        <item>natural butter</item>
+        <item>natural butter flavour</item>
+        <item>whipped butter</item>
+        <item>casein</item>
+        <item>caseinate</item>
+        <item>caseinates</item>
+        <item>ammonium caseinate</item>
+        <item>calcium caseinate</item>
+        <item>hydrolyzed casein</item>
+        <item>iron caseinate magnesium caseinate</item>
+        <item>potassium caseinate</item>
+        <item>sodium caseinate</item>
+        <item>zinc caseinate</item>
+        <item>cheese</item>
+        <item>cheese flavor</item>
+        <item>cheese food</item>
+        <item>cottage cheese</item>
+        <item>cream cheese</item>
+        <item>vegetarian cheeses with casein</item>
+        <item>imitation cheese</item>
+        <item>cream</item>
+        <item>whipped cream</item>
+        <item>curds</item>
+        <item>custard</item>
+        <item>dairy product solids</item>
+        <item>galactose</item>
+        <item>ghee</item>
+        <item>half and half hydrolysates</item>
+        <item>casein hydrolysate</item>
+        <item>milk protein hydrolysate</item>
+        <item>protein hydrolysate</item>
+        <item>whey hydrolysate</item>
+        <item>whey protein hydrolysate ice cream</item>
+        <item>ice milk</item>
+        <item>sherbet</item>
+        <item>whey</item>
+        <item>lactoalbumin</item>
+        <item>lactulose</item>
+        <item>lactoferrin</item>
+        <item>lactoglobulin</item>
+        <item>milk protein</item>
+        <item>hydrolysate</item>
+        <item>lactalbumin</item>
+        <item>lactalbumin phosphate</item>
+        <item>lactate solids</item>
+        <item>lactyc yeast</item>
+        <item>lactitol monohydrate</item>
+        <item>lactoglobulin</item>
+        <item>lactose</item>
+        <item>lactulose</item>
+        <item>milk fat</item>
+        <item>anhydrous milk fat</item>
+        <item>nougat</item>
+        <item>nisin preparation</item>
+        <item>pudding</item>
+        <item>quark</item>
+        <item>recaldent</item>
+        <item>rennet</item>
+        <item>rennet casein</item>
+        <item>simplesse</item>
+        <item>sour cream</item>
+        <item>sour cream solids</item>
+        <item>imitation sour cream</item>
+        <item>acid whey</item>
+        <item>whey</item>
+        <item>cured whey</item>
+        <item>delactosed whey</item>
+        <item>demineralised whey</item>
+        <item>hydrolyzed whey</item>
+        <item>powdered whey</item>
+        <item>reduced mineral whey</item>
+        <item>sweet dairy whey</item>
+        <item>whey protein</item>
+        <item>whey protein concentrate</item>
+        <item>whey powder</item>
+        <item>whey solids</item>
+        <item>yogurt</item>
+        <item>yogurt powder</item>
+        
+    </string-array>
+
+    <string-array name="Celery">
+        <item>celery</item>
+        <item>celery seed</item>
+        <item>celery leaf</item>
+        <item>celery salt</item>
+        <item>celariac</item>
+        <item>celery stalk</item>
+
+    </string-array>
+
+    <string-array name="Mustard">
+        <item>mustard powder</item>
+        <item>mustard seeds</item>
+        <item>mustard flour</item>
+        <item>mustard leaves</item>
+        <item>mustard oil</item>
+        <item>sprouted mustard seeds</item>
+        <item>mustard</item>
+    </string-array>
+
+    <string-array name="Sesame">
+        <item>sesame seeds</item>
+        <item>sesame oil</item>
+        <item>benne</item>
+        <item>benne seed</item>
+        <item>gingelly</item>
+        <item>gingelly oil</item>
+        <item>sesame</item>
+    </string-array>
+
+    <string-array name="Lupin">
+        <item>lupine</item>
+        <item>lupin flour</item>
+        <item>lupin seed</item>
+        <item>lupin bean</item>
+        <item>lupin</item>
+    </string-array>
+
+    <string-array name="Molluscs">
+        <item>oysters</item>
+        <item>oyster</item>
+        <item>snails</item>
+        <item>squid</item>
+        <item>scallops</item>
+        <item>mussels</item>
+        <item>clams and cockles</item>
+        <item>abalone</item>
+        <item>mussels</item>
+        <item>octopus</item>
+        <item>oyster</item>
+        <item>mollusc</item>
+    </string-array>
+
+    <string-array name="Sulphites">
+        <item>sulphur</item>
+        <item>sulphur dioxide</item>
+        <item>sulphite</item>
+        <item>sulphites</item>
+        <item>potassium bisulphite</item>
+        <item>metabisulphite</item>
+        <item>sodium bisulphite</item>
+        <item>dithionite</item>
+        <item>metabisulphite</item>
+        <item>sulphiting agents</item>
+        <item>sulphurous acid</item>
+        <item>e220 sulphur dioxide</item>
+        <item>e221 sodium sulphite</item>
+        <item>e222 sodium hydrogen sulphite</item>
+        <item>e223 sodium metabisulphite</item>
+        <item>e224 potassium metabisulphite</item>
+        <item>e226 calcium sulphite</item>
+        <item>e227 calcium hydrogen sulphite</item>
+        <item>e228 potassium hydrogen sulphite</item>
+        <item>e150b caustic sulphite caramel</item>
+        <item>e150d sulphite ammonia caramel</item>
+        <item>sulphite</item>
+    </string-array>
+
+    <string-array name="Nuts">
+        <item>almond</item>
+        <item>hazelnuts</item>
+        <item>walnuts</item>
+        <item>cashews</item>
+        <item>cashew nuts</item>
+        <item>pecan nuts</item>
+        <item>brazil nuts</item>
+        <item>pistachio nuts</item>
+        <item>pistachios</item>
+        <item>macadamia</item>
+        <item>macadamia nut</item>
+        <item>queensland nuts</item>
+        <item>almond paste</item>
+        <item>anacardium nuts</item>
+        <item>anacardium occidentale</item>
+        <item>anacardiaceae</item>
+        <item>bertholletia excelsa</item>
+        <item>lecythidaceae</item>
+        <item>carya illinoensis</item>
+        <item>juglandaceae</item>
+        <item>cashew</item>
+        <item>castanea pumila</item>
+        <item>fagaceae</item>
+        <item>hazelnut</item>
+        <item>juglans spp</item>
+        <item>juglandaceae</item>
+        <item>walnut</item>
+        <item>butternut</item>
+        <item>heartnut</item>
+        <item>karite</item>
+        <item>shea nut</item>
+        <item>lichee nut</item>
+        <item>litchi chinensis sonn</item>
+        <item>sapindaceae</item>
+        <item>lychee nut</item>
+        <item>macadamia spp</item>
+        <item>proteaceae</item>
+        <item>bush nut</item>
+        <item>mandelonas</item>
+        <item>marzipan</item>
+        <item>mashuga nuts</item>
+        <item>nangai nuts</item>
+        <item>natural nut extract</item>
+        <item>almond extract</item>
+        <item>nut extract</item>
+        <item>nougat</item>
+        <item>nu-nuts</item>
+        <item>nut butters</item>
+        <item>nut butter</item>
+        <item>almond butter</item>
+        <item>hazelnut butter</item>
+        <item>brazil nut butter</item>
+        <item>macadamia nut butter</item>
+        <item>pistachio nut butter</item>
+        <item>shea nut butter</item>
+        <item>karike butter</item>
+        <item>nut meal</item>
+        <item>nutella</item>
+        <item>nutmeat</item>
+        <item>nut oil</item>
+        <item>walnut oil</item>
+        <item>nut paste</item>
+        <item>nut pieces</item>
+        <item>pecan</item>
+        <item>pigñolia</item>
+        <item>pili nut</item>
+        <item>pine nut</item>
+        <item>indian nut</item>
+        <item>piñon nut</item>
+        <item>pinyon nut</item>
+        <item>pigndi nut</item>
+        <item>pigñolia nut</item>
+        <item>pignon nuts</item>
+        <item>pinon nut</item>
+        <item>piñon</item>
+        <item>pinus spp</item>
+        <item>pineaceae</item>
+        <item>pistachio</item>
+        <item>pistacia vera l</item>
+        <item>anacardiaceae</item>
+        <item>pralines</item>
+        <item>prunus dulcis</item>
+        <item>rosaceae</item>
+        <item>sheanut</item>
+        <item>vitellaria paradoxa</item>
+        <item>sapotaceae</item>
+
+    </string-array>
+
+    <string-array name="Wada">
+        <item>mestanolone</item>
+        <item>mesterolone</item>
+        <item>metandienone</item>
+        <item>metenolone</item>
+        <item>methandriol</item>
+        <item>methasterone</item>
+        <item>methyldienolone</item>
+        <item>methyl-1-testosterone</item>
+        <item>methylnortestosterone</item>
+        <item>methyltestosterone</item>
+        <item>metribolone</item>
+        <item>methyltrienolone</item>
+        <item>mibolerone</item>
+        <item>norboletone</item>
+        <item>norclostebol</item>
+        <item>norethandrolone</item>
+        <item>oxabolone</item>
+        <item>oxandrolone</item>
+        <item>oxymesterone</item>
+        <item>oxymetholone</item>
+        <item>prostanozol</item>
+        <item>quinbolone</item>
+        <item>stanozolol</item>
+        <item>stenbolone</item>
+        <item>tetrahydrogestrinone</item>
+        <item>trenbolone</item>
+        <item>anabolic androgenic steroids</item>
+        <item>aas</item>
+        <item>exogenous</item>
+        <item>androstenediol</item>
+        <item>androstenedione</item>
+        <item>androsterone</item>
+        <item>testosterone</item>
+        <item>hydroxytestosterone</item>
+        <item>bolandiol</item>
+        <item>bolasterone</item>
+        <item>calusterone</item>
+        <item>clostebol</item>
+        <item>danazol</item>
+        <item>oxazolo</item>
+        <item>dehydrochlormethyltestosterone</item>
+        <item>desoxymethyltestosterone</item>
+        <item>drostanolone</item>
+        <item>ethylestrenol</item>
+        <item>fluoxymesterone</item>
+        <item>formebolone</item>
+        <item>furazabol</item>
+        <item>gestrinone</item>
+        <item>oxadiazolo</item>
+        <item>gestrinone</item>
+        <item>norandrostenediol</item>
+        <item>norandrostenedione</item>
+        <item>androstanolone</item>
+        <item>androstenediol</item>
+        <item>androstenedione</item>
+        <item>boldenone</item>
+        <item>boldione</item>
+        <item>prasterone</item>
+        <item>dehydroepiandrosterone</item>
+        <item>clenbuterol</item>
+        <item>sarms</item>
+        <item>andarine</item>
+        <item>lgd-4033</item>
+        <item>ostarine</item>
+        <item>rad140</item>
+        <item>tibolone</item>
+        <item>zeranol</item>
+        <item>zilpaterol</item>
+        <item>peptide hormones</item>
+        <item>growth factor</item>
+        <item>3β-hydroxy-5α-androstan-17-one</item>
+        <item>5α-androst-2-ene-17-one</item>
+        <item>5α-androstane-3α,17α-diol</item>
+        <item>5α-androstane-3α,17β-diol</item>
+        <item>5α-androstane-3β,17α-diol</item>
+        <item>5α-androstane-3β,17β-diol</item>
+        <item>5β-androstane-3α,17β-diol</item>
+        <item>7α-hydroxy-dhea</item>
+        <item>7β-hydroxy-dhea</item>
+        <item>4-androstenediol</item>
+        <item>5-androstenedione</item>
+        <item>7-keto-dhea</item>
+        <item>19-norandrosterone</item>
+        <item>19-noretiocholanolone</item>
+        <item>androst-4-ene-3α,17α-diol</item>
+        <item>androst-4-ene-3α,17β-diol</item>
+        <item>androst-4-ene-3β,17α-diol</item>
+        <item>androst-5-ene-3α,17α-diol</item>
+        <item>androst-5-ene-3α,17β-diol</item>
+        <item>androst-5-ene-3β,17α-diol</item>
+        <item>androsterone</item>
+        <item>epi-dihydrotestosterone</item>
+        <item>epitestosterone</item>
+        <item>etiocholanolone</item>
+        <item>erythropoietins</item>
+        <item>epo</item>
+        <item>darbepoetins</item>
+        <item>depo</item>
+        <item>epo-fc</item>
+        <item>methoxy polyethylene glycol-epoetin beta</item>
+        <item>cnto-530</item>
+        <item>peginesatide</item>
+        <item>hypoxia-inducible factor</item>
+        <item>hif</item>
+        <item>argon</item>
+        <item>cobalt</item>
+        <item>molidustat</item>
+        <item>roxadustat</item>
+        <item>xenon</item>
+        <item>k-11706</item>
+        <item>luspatercept</item>
+        <item>sotatercept</item>
+        <item>asialo epo</item>
+        <item>carbamylated epo</item>
+        <item>cepo</item>
+        <item>carbamylated erythropoietins</item>
+        <item>fenoterol</item>
+        <item>formoterol</item>
+        <item>higenamine</item>
+        <item>indacaterol</item>
+        <item>olodaterol</item>
+        <item>procaterol</item>
+        <item>reproterol</item>
+        <item>salmeterol</item>
+        <item>salbutamol</item>
+        <item>terbutaline</item>
+        <item>tulobuterol</item>
+        <item>vilanterol</item>
+        <item>chorionic gonadotrophin</item>
+        <item>luteinizing hormone</item>
+        <item>cg</item>
+        <item>lh</item>
+        <item>corticotrophins</item>
+        <item>growth hormone</item>
+        <item>gh</item>
+        <item>growth hormone releasing hormone</item>
+        <item>ghrh</item>
+        <item>fibroblast growth factors</item>
+        <item>hepatocyte growth factor</item>
+        <item>mechano growth factors</item>
+        <item>platelet-derived growth factor</item>
+        <item>thymosin-β4</item>
+        <item>vascular-endothelial growth factor</item>
+        <item>4-androstene-3,6,17 trione</item>
+        <item>aminoglutethimide</item>
+        <item>anastrozole</item>
+        <item>androsta-1,4,6-triene-3,17-dione</item>
+        <item>androstatrienedione</item>
+        <item>desmopressin</item>
+        <item>acetazolamide</item>
+
+    </string-array>
+</resources>
