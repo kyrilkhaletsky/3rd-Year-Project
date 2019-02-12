@@ -1,2 +1,2 @@
 # CA326-Project
-3rd Year project (Android Application)
+3rd Year Project (Android Application)
